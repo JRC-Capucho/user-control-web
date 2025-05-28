@@ -1,0 +1,2 @@
+pnpm lint:git
+pnpm format:git
